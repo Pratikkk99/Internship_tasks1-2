@@ -1,5 +1,7 @@
 Internship task 1:-
 
+[File for movie recommendor - app.py , recommender.py , movies.csv]
+
 # 🎬 Movie Genre-Based Recommender System
 
 A content-based movie recommendation system that suggests similar movies based on genre and overview, using Natural Language Processing and Machine Learning techniques.
@@ -34,6 +36,8 @@ To build a movie recommender system using content-based filtering that recommend
 ---
 
 # Internship_tasks2:-
+
+[Code file for stock predictor - stock_predictor.py]
 
 # 📈 Stock Market Price Predictor
 
